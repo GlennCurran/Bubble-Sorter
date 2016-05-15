@@ -1,2 +1,2 @@
 # Bubble-Sorter
-C++ practice. Lightweight interger bubble-sort program
+C++ practice. Lightweight integer bubble-sort program
